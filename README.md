@@ -3,9 +3,9 @@
 
 - Atualmente estou trabalho com Análise e Visualização de dados **Automação para Indices de SLA**
 
-- 🌱 Estou aprofundando meus conhecimentos **Big Data, Python, Machine Learning,RPA**
+- 🌱 Estou aprofundando meus conhecimentos **Big Data, Python, Machine Learning e RPA**
 
-- 💬 Me pergunte sobre **Python, Michine Learning, Google Data Studio, Power PI, Power Automate, Power Apps, Excel Avançado**
+- 💬 Me pergunte sobre **Python, Machine Learning, Google Data Studio, Power PI, Power Automate, Power Apps, Excel, SQL**
 
 - 📫 Pode me contatar através de meu e-mail **robsonkmr@gmail.com**
 
